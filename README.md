@@ -92,9 +92,3 @@ Best Configuration: **prompt1_top3_large**
 
 ---
 
-### Option 2: Run Locally
-
-1. Install dependencies:
-
-```bash
-pip install -r requirements.txt
