@@ -88,7 +88,7 @@ Best Configuration: **prompt1_top3_large**
 ### Option 1: Run on Google Colab (Recommended)
 
 1. Open the notebook in Google Colab  
+
 2. Run all cells sequentially  
 
----
-
+3. If the notebook shows an "Invalid Notebook" error on GitHub, download the `.ipynb` file and open it directly in Google Colab, then run all cells
