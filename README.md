@@ -68,8 +68,11 @@ Total Configurations: **8**
 Best Configuration: **prompt1_top3_large**
 
 -EM: 0.17
+
 -F1: 0.27
+
 -Retrieval: 0.97
+
 -Faithfulness: 0.966666 
 
 ---
